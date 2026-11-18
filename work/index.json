@@ -1,0 +1,677 @@
+[
+ {
+  "session": 101,
+  "unit": 1,
+  "session_no": 1,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_101.md",
+  "mcq_ids": [
+   94093,
+   94091,
+   94084,
+   94090,
+   94092
+  ],
+  "slo1": "1011",
+  "slo2": "1012"
+ },
+ {
+  "session": 102,
+  "unit": 1,
+  "session_no": 2,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_102.md",
+  "mcq_ids": [
+   94096,
+   94097,
+   94100,
+   94099,
+   94098
+  ],
+  "slo1": "1021",
+  "slo2": "1022"
+ },
+ {
+  "session": 103,
+  "unit": 1,
+  "session_no": 3,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_103.md",
+  "mcq_ids": [
+   94104,
+   94105,
+   94103,
+   94101,
+   94102
+  ],
+  "slo1": "1031",
+  "slo2": "1032"
+ },
+ {
+  "session": 104,
+  "unit": 1,
+  "session_no": 4,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_104.md",
+  "mcq_ids": [
+   94109,
+   94106,
+   94110,
+   94108,
+   94107
+  ],
+  "slo1": "1041",
+  "slo2": "1042"
+ },
+ {
+  "session": 105,
+  "unit": 1,
+  "session_no": 5,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_105.md",
+  "mcq_ids": [
+   94115,
+   94111,
+   94112,
+   94114,
+   94113
+  ],
+  "slo1": "1051",
+  "slo2": "1052"
+ },
+ {
+  "session": 106,
+  "unit": 1,
+  "session_no": 6,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_106.md",
+  "mcq_ids": [
+   94118,
+   94119,
+   94117,
+   94120,
+   94116
+  ],
+  "slo1": "1061",
+  "slo2": "1062"
+ },
+ {
+  "session": 107,
+  "unit": 1,
+  "session_no": 7,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_107.md",
+  "mcq_ids": [
+   94123,
+   94122,
+   94121,
+   94124,
+   94125
+  ],
+  "slo1": "1071",
+  "slo2": "1072"
+ },
+ {
+  "session": 108,
+  "unit": 1,
+  "session_no": 8,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_108.md",
+  "mcq_ids": [
+   94129,
+   94127,
+   94130,
+   94128,
+   94126
+  ],
+  "slo1": "1081",
+  "slo2": "1082"
+ },
+ {
+  "session": 109,
+  "unit": 1,
+  "session_no": 9,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit1\\session_109.md",
+  "mcq_ids": [
+   94131,
+   94133,
+   94134,
+   94132,
+   94135
+  ],
+  "slo1": "1091",
+  "slo2": "1092"
+ },
+ {
+  "session": 201,
+  "unit": 2,
+  "session_no": 1,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_201.md",
+  "mcq_ids": [
+   127424,
+   127419,
+   127417,
+   127415,
+   127422
+  ],
+  "slo1": "2011",
+  "slo2": "2012"
+ },
+ {
+  "session": 202,
+  "unit": 2,
+  "session_no": 2,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_202.md",
+  "mcq_ids": [
+   127438,
+   127435,
+   127433,
+   127436,
+   127431
+  ],
+  "slo1": "2021",
+  "slo2": "2022"
+ },
+ {
+  "session": 203,
+  "unit": 2,
+  "session_no": 3,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_203.md",
+  "mcq_ids": [
+   127449,
+   127446,
+   127447,
+   127453,
+   127452
+  ],
+  "slo1": "2031",
+  "slo2": "2032"
+ },
+ {
+  "session": 204,
+  "unit": 2,
+  "session_no": 4,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_204.md",
+  "mcq_ids": [
+   127465,
+   127463,
+   127467,
+   127469,
+   127464
+  ],
+  "slo1": "2041",
+  "slo2": "2042"
+ },
+ {
+  "session": 205,
+  "unit": 2,
+  "session_no": 5,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_205.md",
+  "mcq_ids": [
+   127477,
+   127476,
+   127475,
+   127474,
+   127478
+  ],
+  "slo1": "2051",
+  "slo2": "2052"
+ },
+ {
+  "session": 206,
+  "unit": 2,
+  "session_no": 6,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_206.md",
+  "mcq_ids": [
+   127486,
+   127484,
+   127482,
+   127483,
+   127485
+  ],
+  "slo1": "2061",
+  "slo2": "2062"
+ },
+ {
+  "session": 207,
+  "unit": 2,
+  "session_no": 7,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_207.md",
+  "mcq_ids": [
+   127493,
+   127496,
+   127491,
+   127492,
+   127494
+  ],
+  "slo1": "2071",
+  "slo2": "2072"
+ },
+ {
+  "session": 208,
+  "unit": 2,
+  "session_no": 8,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_208.md",
+  "mcq_ids": [
+   127501,
+   127503,
+   127505,
+   127502,
+   127504
+  ],
+  "slo1": "2081",
+  "slo2": "2082"
+ },
+ {
+  "session": 209,
+  "unit": 2,
+  "session_no": 9,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit2\\session_209.md",
+  "mcq_ids": [
+   127513,
+   127516,
+   127512,
+   127515,
+   127510
+  ],
+  "slo1": "2091",
+  "slo2": "2092"
+ },
+ {
+  "session": 301,
+  "unit": 3,
+  "session_no": 1,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_301.md",
+  "mcq_ids": [
+   79323,
+   79310,
+   79324,
+   79325,
+   79326
+  ],
+  "slo1": "3011",
+  "slo2": "3012"
+ },
+ {
+  "session": 302,
+  "unit": 3,
+  "session_no": 2,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_302.md",
+  "mcq_ids": [
+   79329,
+   79327,
+   79328,
+   79330,
+   79331
+  ],
+  "slo1": "3021",
+  "slo2": "3022"
+ },
+ {
+  "session": 303,
+  "unit": 3,
+  "session_no": 3,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_303.md",
+  "mcq_ids": [
+   79342,
+   79341,
+   79338,
+   79340,
+   79339
+  ],
+  "slo1": "3031",
+  "slo2": "3032"
+ },
+ {
+  "session": 304,
+  "unit": 3,
+  "session_no": 4,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_304.md",
+  "mcq_ids": [
+   79356,
+   79355,
+   79359,
+   79358,
+   79357
+  ],
+  "slo1": "3041",
+  "slo2": "3042"
+ },
+ {
+  "session": 305,
+  "unit": 3,
+  "session_no": 5,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_305.md",
+  "mcq_ids": [
+   79366,
+   79367,
+   79364,
+   79363,
+   79365
+  ],
+  "slo1": "3051",
+  "slo2": "3052"
+ },
+ {
+  "session": 306,
+  "unit": 3,
+  "session_no": 6,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_306.md",
+  "mcq_ids": [
+   79382,
+   79380,
+   79379,
+   79383,
+   79381
+  ],
+  "slo1": "3061",
+  "slo2": "3062"
+ },
+ {
+  "session": 307,
+  "unit": 3,
+  "session_no": 7,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_307.md",
+  "mcq_ids": [
+   79373,
+   79371,
+   79372,
+   79375,
+   79374
+  ],
+  "slo1": "3071",
+  "slo2": "3072"
+ },
+ {
+  "session": 308,
+  "unit": 3,
+  "session_no": 8,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_308.md",
+  "mcq_ids": [
+   79408,
+   79412,
+   79409,
+   79411,
+   79410
+  ],
+  "slo1": "3081",
+  "slo2": "3082"
+ },
+ {
+  "session": 309,
+  "unit": 3,
+  "session_no": 9,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit3\\session_309.md",
+  "mcq_ids": [
+   79937,
+   79939,
+   79938,
+   79936,
+   79940
+  ],
+  "slo1": "3091",
+  "slo2": "3092"
+ },
+ {
+  "session": 401,
+  "unit": 4,
+  "session_no": 1,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_401.md",
+  "mcq_ids": [
+   111169,
+   111167,
+   111171,
+   111172,
+   111164
+  ],
+  "slo1": "4011",
+  "slo2": "4012"
+ },
+ {
+  "session": 402,
+  "unit": 4,
+  "session_no": 2,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_402.md",
+  "mcq_ids": [
+   111181,
+   111177,
+   111183,
+   111176,
+   111182
+  ],
+  "slo1": "4021",
+  "slo2": "4022"
+ },
+ {
+  "session": 403,
+  "unit": 4,
+  "session_no": 3,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_403.md",
+  "mcq_ids": [
+   111193,
+   111188,
+   111185,
+   111190,
+   111184
+  ],
+  "slo1": "4031",
+  "slo2": "4032"
+ },
+ {
+  "session": 404,
+  "unit": 4,
+  "session_no": 4,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_404.md",
+  "mcq_ids": [
+   111199,
+   111201,
+   111196,
+   111195,
+   111198
+  ],
+  "slo1": "4041",
+  "slo2": "4042"
+ },
+ {
+  "session": 405,
+  "unit": 4,
+  "session_no": 5,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_405.md",
+  "mcq_ids": [
+   111207,
+   111213,
+   111205,
+   111208,
+   111204
+  ],
+  "slo1": "4051",
+  "slo2": "4052"
+ },
+ {
+  "session": 406,
+  "unit": 4,
+  "session_no": 6,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_406.md",
+  "mcq_ids": [
+   111217,
+   111215,
+   111221,
+   111222,
+   111219
+  ],
+  "slo1": "4061",
+  "slo2": "4062"
+ },
+ {
+  "session": 407,
+  "unit": 4,
+  "session_no": 7,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_407.md",
+  "mcq_ids": [
+   111227,
+   111230,
+   111225,
+   111231,
+   111224
+  ],
+  "slo1": "4071",
+  "slo2": "4072"
+ },
+ {
+  "session": 408,
+  "unit": 4,
+  "session_no": 8,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_408.md",
+  "mcq_ids": [
+   111236,
+   111239,
+   111243,
+   111241,
+   111237
+  ],
+  "slo1": "4081",
+  "slo2": "4082"
+ },
+ {
+  "session": 409,
+  "unit": 4,
+  "session_no": 9,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit4\\session_409.md",
+  "mcq_ids": [
+   111248,
+   111244,
+   111251,
+   111249,
+   111247
+  ],
+  "slo1": "4091",
+  "slo2": "4092"
+ },
+ {
+  "session": 501,
+  "unit": 5,
+  "session_no": 1,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_501.md",
+  "mcq_ids": [
+   129264,
+   129265,
+   129263,
+   129261,
+   129292
+  ],
+  "slo1": "5011",
+  "slo2": "5012"
+ },
+ {
+  "session": 502,
+  "unit": 5,
+  "session_no": 2,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_502.md",
+  "mcq_ids": [
+   129269,
+   129267,
+   129268,
+   129266,
+   129270
+  ],
+  "slo1": "5021",
+  "slo2": "5022"
+ },
+ {
+  "session": 503,
+  "unit": 5,
+  "session_no": 3,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_503.md",
+  "mcq_ids": [
+   129274,
+   129275,
+   129271,
+   129273,
+   129272
+  ],
+  "slo1": "5031",
+  "slo2": "5032"
+ },
+ {
+  "session": 504,
+  "unit": 5,
+  "session_no": 4,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_504.md",
+  "mcq_ids": [
+   129276,
+   129279,
+   129278,
+   129280,
+   129277
+  ],
+  "slo1": "5041",
+  "slo2": "5042"
+ },
+ {
+  "session": 505,
+  "unit": 5,
+  "session_no": 5,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_505.md",
+  "mcq_ids": [
+   129285,
+   129284,
+   129286,
+   129282,
+   129283
+  ],
+  "slo1": "5051",
+  "slo2": "5052"
+ },
+ {
+  "session": 506,
+  "unit": 5,
+  "session_no": 6,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_506.md",
+  "mcq_ids": [
+   129288,
+   129289,
+   129287,
+   129290,
+   129291
+  ],
+  "slo1": "5061",
+  "slo2": "5062"
+ },
+ {
+  "session": 507,
+  "unit": 5,
+  "session_no": 7,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_507.md",
+  "mcq_ids": [
+   129296,
+   129293,
+   129297,
+   129294,
+   129295
+  ],
+  "slo1": "5071",
+  "slo2": "5072"
+ },
+ {
+  "session": 508,
+  "unit": 5,
+  "session_no": 8,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_508.md",
+  "mcq_ids": [
+   129302,
+   129299,
+   129301,
+   129298,
+   129300
+  ],
+  "slo1": "5081",
+  "slo2": "5082"
+ },
+ {
+  "session": 509,
+  "unit": 5,
+  "session_no": 9,
+  "brief": "C:\\Users\\ADMIN\\Projects\\behavioral-psych-eval\\work\\unit5\\session_509.md",
+  "mcq_ids": [
+   129305,
+   129306,
+   129307,
+   129304,
+   129303
+  ],
+  "slo1": "5091",
+  "slo2": "5092"
+ }
+]

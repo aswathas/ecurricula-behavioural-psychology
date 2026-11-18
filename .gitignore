@@ -1,0 +1,53 @@
+# Credentials, tokens and portal sessions. These never leave this machine.
+secrets/
+accounts/
+*.db
+*.cookie
+*.cookies
+*_cookies.json
+*session_cookies*
+.env
+.env.*
+2fa_code.txt
+totp_*.txt
+recovery_code.txt
+
+# Browser profiles: they carry a live Google and SRM session.
+chrome-ud/
+chrome-ud-new/
+brave-ud-new/
+brave-ud/
+Default/
+Local State
+
+# Working output: API dumps, screenshots, session captures, the filled sheets.
+out/
+download.html
+lm1.html
+lm2.html
+
+# Course material fetched from the portal and the scratch around it.
+source/
+work/unit*/
+work/keys/
+work/new/
+work/tmp_dump/
+work/ws_answers/
+work/.wa_sid
+work/wacall.sh
+
+# Only the document builders are published. The portal clients, the login and
+# the submission scripts stay on this machine.
+scripts/*
+!scripts/assignment_content.py
+!scripts/assignment_diagrams.py
+!scripts/sheet_figures.py
+!scripts/build_assignment_fill.py
+!scripts/build_assignment_pdf.py
+!scripts/build_assignment_sheet.py
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db

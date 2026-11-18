@@ -1,0 +1,85 @@
+#### A1 Q2 Q2. Self-Concept Circle
+[diagram: circle]
+
+BODY
+{{body_physical | your height, build and posture, and what your body complains about after a long day of sitting}}
+
+PERSONALITY
+I am quiet until a problem interests me, then I talk too much and too fast. I am stubborn about things I believe are right, and I have been told that it reads as impatience.
+
+ABILITIES
+I am good at taking a broken system apart and finding the one broken assumption. I am decent at writing documentation that someone else can follow. I am bad at estimating how long my own work will take.
+
+ROLE IN MY FAMILY
+I am the eldest son, so I am expected to be the reliable one who sorts things out. That expectation is a source of strength and a heavy weight at the same time.
+
+Hardest section to write: Abilities. I could list the personality part honestly because I have heard it from other people. For abilities I started writing what I have proved and had to admit that most of them are things I got better at by accident, and that my confidence there is borrowed from other people.
+#### A1 Q4 Q4. The Wheel of Emotions
+[diagram: wheel]
+
+The moment was the evening before I had to demo an end-to-end encrypted file-sharing web app I had built for a junior of mine.
+
+The five emotions mixed together were: anticipation, nervousness, pride, fear of embarrassment, and hope.
+
+Anticipation because the demo was going to a real person who had been told it would work. Nervousness because the encryption path was the part I had rewritten twice. Pride because the project genuinely did something I care about - it let a junior hand over a file safely. Fear of embarrassment because the demo ran from my laptop, over a tunnel, and tunnels fail. Hope because if it worked, the same build pattern would carry to the other three projects waiting behind it.
+
+The trigger was not a single event but the hour before: seeing the tunnel URL, knowing it was temporary, and realising I had no backup way to show the work if the tunnel dropped.
+#### A1 Q5 Q5. The Feeling Wheel - Naming My Emotions
+[diagram: feeling-wheel]
+
+The specific emotion was embarrassment - not worry, not stress - and it happened when a feature I had shipped failed on my teammate's machine during a live walkthrough, in front of the people I was trying to convince.
+
+What triggered it was not the bug. It was that I had spent twenty minutes describing that feature as "fully tested", and in that moment I knew the word had been larger than the evidence. The gap between my claim and the reality is what embarrassed me, not the failure itself.
+
+My response was to narrate it out loud as a check of the setup rather than an error in the product, and to keep going. Honestly, that worked for the room and did not work for me - I still felt it for the rest of the day. Naming the emotion precisely is what let me see that: I was defending my claim, not solving the problem. I have since started saying "that part is untested on other machines" before someone else finds it.
+#### A1 Q9 Q9. My Johari Window
+[diagram: johari]
+
+OPEN (both I and others know): I am the person who takes on other people's unfinished work and does not complain about it. Anyone in my team can confirm that within a week of working with me.
+
+HIDDEN (I know, others do not): I get nervous before any demo or review, even when the work is good, and I rehearse the first two sentences privately. People assume I am calm because I look calm in the room. The gap between how I actually feel and how I appear is the part of me I keep hidden.
+
+BLIND SPOT (others may see it, I have not fully realised it): My pushback on requirements comes across as harsher than I intend. A junior told me my feedback felt like I was grading them, and I did not believe it - until I read my own messages afterwards and could see the tone. That was a blind spot I only opened by taking the feedback literally instead of defensively.
+#### A1 Q10 Q10. My Self-Esteem Tree
+[diagram: esteem-tree]
+
+ROOTS (what gives me strength): My family, and one stubborn belief that most problems are just badly-decomposed problems. Also a habit of writing things down, which stops small failures from becoming large ones.
+
+TRUNK (my core strengths): Breaking down systems others call magic, staying calm when something breaks in front of me, and finishing what I commit to even when the last stretch is dull.
+
+BRANCHES (the roles I hold): Student in the 8th semester of Blockchain Technology; senior who gets pulled into other people's projects; builder of my own tools; the person in the family who is expected to have the answer.
+
+LEAVES (achievements so far): Shipping an end-to-end encrypted file-sharing app with a live demo and full documentation; a project manager skill that routes work across agent harnesses; a small desktop tool that drives my PC's lighting hardware directly; and getting juniors through their projects without burning them out.
+
+FRUITS (future goals): A placement that uses what I have built so far, one product of my own that other people use without me in the room, and being the kind of senior I am glad to have had.
+
+Reflection (40-60 words):
+I am proudest of the branches, not the leaves. The leaves are the part everyone sees and they are replaceable - a better project would just be a new leaf. The branches are the part that made the leaves possible: being the senior others bring work to is the role that has taught me the most about myself. If I lose the branches, the leaves stop growing at all.
+#### A2 Q5 Q5. My Personal SWOT
+[diagram: swot]
+
+Area chosen: my time management (specifically: how I use my study and project hours in a semester).
+
+STRENGTHS
+- I work in long, uninterrupted blocks; when I start something I can stay on it for two to three hours.
+- I keep notes of everything - decisions, errors, what worked - so I rarely lose the same piece of work twice.
+- I am honest about how long something will take once I have started it, which makes my estimates usable.
+- I protect the hours that matter by refusing meetings that have no agenda.
+
+WEAKNESSES
+- I start things before I have finished the previous one, so my "in progress" list is longer than my "done" list.
+- I do the hard task last, usually at night, when I am too tired to do it properly.
+- I say yes to requests from juniors quickly, because refusing feels like letting someone down.
+- My week has no buffer; one bad day puts everything into the next.
+
+OPPORTUNITIES
+- I can batch all my small admin and communication into two fixed windows a day instead of letting them interrupt.
+- I can use a weekly review to close the week with an empty list rather than a carried-over one.
+- I can make my juniors' requests go through a shared board, so "yes" is a scheduling decision rather than a feeling.
+
+THREATS
+- Project deadlines land in clusters in this semester, and I have already seen two collide.
+- My own tooling is a trap: building the tracker becomes a way of avoiding the work it tracks.
+- If the labs or placement prep move to a strict fixed slot, my "flexible" system has no home.
+
+Honest summary: my strengths are all about depth inside one task, and my weaknesses are all about choosing which task and when. The threat that worries me most is the third one, because I have turned a solution into a hobby before.
