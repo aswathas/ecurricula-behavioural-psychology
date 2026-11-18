@@ -122,7 +122,24 @@ public repository `aswathas/ecurricula-behavioural-psychology`.
 | `work/assignment_questions.json` | The structured questions: number, title, concept, stem, word count, marks. | The sheet builder's input and the word budget. | Read by the sheet builder on every run. |
 | `work/figure_answers.txt` | The answer to every figure question. | The figure content, kept out of the prose module. | Read by the content module. |
 | `work/index.json` | The session index: session id, unit, SLO nodes, MCQ ids. | Structural metadata about the course, no course content. | Read only; no credentials. |
-| `assignments/*.md`, `*.html`, `*.pdf` | The finished work: typed answers, fill-in sheet, handwritten PDFs, worksheets, personalisation checklist. | It is the work. | Produced by the builders in this repository. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_ANSWERS_TYPED.md` | The typed answers as Markdown. | It is the work. | Written by `build_assignment_fill.py`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_ANSWERS_TYPED.html` | The typed answers as HTML, the source of the PDF. | It is the work. | Written by `build_assignment_fill.py`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_ANSWERS_TYPED.pdf` | The typed answers as PDF. | It is the work. | Converted from the HTML; 187 KB. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_FILL.md` | The fill-in sheet as Markdown: the same content laid out to write on. | It is the work. | Written by `build_assignment_fill.py fill`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_FILL.html` | The fill-in sheet as HTML. | It is the work. | Written by `build_assignment_fill.py fill`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_FILL.pdf` | The fill-in sheet as PDF. | It is the work. | Converted from the HTML; 214 KB. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_SHEET.html` | The answer-sheet worksheet, blank, as HTML. | It is the work. | Written by `build_assignment_sheet.py blank`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_SHEET.pdf` | The answer-sheet worksheet, blank, as PDF. | It is the work. | Converted from the HTML; 658 KB. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_SHEET_ANSWERS.html` | The same worksheet with the answers filled in, as HTML. | It is the work. | Written by `build_assignment_sheet.py answered`. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_SHEET_ANSWERS.pdf` | The same worksheet with the answers filled in, as PDF. | It is the work. | Converted from the HTML; 280 KB. |
+| `assignments/A1.html` | Assignment 1 as a standalone HTML page. | It is the work. | Written by `build_assignment_pdf.py`. |
+| `assignments/A1_Handwritten.pdf` | Assignment 1 in the handwriting style: ink font, ruled paper, red margin. | It is the work. | Written by `build_assignment_pdf.py`; 295 KB. |
+| `assignments/A2.html` | Assignment 2 as a standalone HTML page. | It is the work. | Written by `build_assignment_pdf.py`. |
+| `assignments/A2_Handwritten.pdf` | Assignment 2 in the handwriting style. | It is the work. | Written by `build_assignment_pdf.py`; 233 KB. |
+| `assignments/A3.html` | Assignment 3 as a standalone HTML page. | It is the work. | Written by `build_assignment_pdf.py`. |
+| `assignments/A3_Handwritten.pdf` | Assignment 3 in the handwriting style. | It is the work. | Written by `build_assignment_pdf.py`; 191 KB. |
+| `assignments/Behavioural_Psychology_Assignments_1-3_ANSWERS.pdf` | The three assignments combined, as submitted. | It is the work. | The submitted artefact; 541 KB. |
+| `assignments/PERSONALISE_CHECKLIST.md` | The checklist of fields to fill in by hand before submission. | It is the work. | Written by `build_assignment_pdf.py`. |
 
 ## Deliberately excluded from the public tree
 
